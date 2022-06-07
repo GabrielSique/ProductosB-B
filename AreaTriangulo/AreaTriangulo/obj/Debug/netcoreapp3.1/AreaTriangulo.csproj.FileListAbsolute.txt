@@ -1,0 +1,15 @@
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.exe
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.deps.json
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.runtimeconfig.json
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.runtimeconfig.dev.json
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.dll
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.pdb
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.csprojAssemblyReference.cache
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.Form1.resources
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.AssemblyInfo.cs
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.dll
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.pdb
+C:\Users\IT\Desktop\PRUEBA-GABRIEL_SIQUE\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.genruntimeconfig.cache
